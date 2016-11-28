@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "",
@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Home",
+        "meta_descr": "Hound of the Barbersville, Dog Grooming, Dog Groomers, Huntington, York, Dog Groomer York, Yo32, dog photography, pets, dogs, pampered pooches, doggy pampering, puppy parlour, Clipping, Snipping, Grooming, Cutting, Nail Trimming, Trimming, Strimming, Hand Strimming, scissors, dogs, cutting, groomer, york, bathing, bath, bubble bath, brushing, hygeine",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -568,7 +568,9 @@
       ]
     },
     "Services.html": {
-      "settings": {},
+      "settings": {
+        "meta_descr": "Clipping, Snipping, Grooming, Cutting, Nail Trimming, Trimming, Strimming, Hand Strimming, scissors, dogs, cutting, groomer, york, bathing, bath, bubble bath, brushing, hygeine"
+      },
       "components": [
         {
           "_name": "footer1",
@@ -1648,7 +1650,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-732.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-730.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
