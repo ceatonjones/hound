@@ -429,6 +429,10 @@ h6,
   color: #c2bab4;
   text-align: right;
 }
+#social-buttons3-1h .mbr-section-title,
+#social-buttons3-1h .btn-social {
+  color: #fff;
+}
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
