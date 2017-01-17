@@ -99,7 +99,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Hound of the Barbersville",
+          "title": "Hound of the Barbersville -<br>Huntington Dog Groomers",
           "text": "Welcome to Hound of the Barbersville! My name is Bev<br> and I started dog grooming to care for the family's pets.<br> Over time, grooming has become my <br>full time occupation and love.<br><br>It is my belief that all animals <br>should be treated like family, so it <br>is my passion to provide the best<br> care&nbsp;and attention to your dogs as I <br>do&nbsp;with my own!<br><br>Bev x<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
@@ -1660,7 +1660,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-731.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-732.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
