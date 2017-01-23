@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "name": "Hound of the Barbersville",
     "theme": {
       "name": "mobirise3",
@@ -1397,7 +1397,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-730.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-731.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
