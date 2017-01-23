@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "name": "Hound of the Barbersville",
     "theme": {
       "name": "mobirise3",
@@ -315,7 +315,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dog-2-179x128-42.png",
+              "src": "@PROJECT_PATH@/assets/images/jasper-logo-170x128-27.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -667,10 +667,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dog-2-179x128-10.png",
+              "src": "@PROJECT_PATH@/assets/images/jasper-logo-170x128-22.png",
               "height": 128,
               "alt": "",
-              "link": "Home",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -932,7 +932,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dog-scissors-179x128-59.png",
+              "src": "@PROJECT_PATH@/assets/images/jasper-logo-170x128-3.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1220,10 +1220,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dog-2-179x128-26.png",
+              "src": "@PROJECT_PATH@/assets/images/jasper-logo-170x128-46.png",
               "height": 128,
               "alt": "",
-              "link": "Home",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1364,10 +1364,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dog-2-179x128-10.png",
+              "src": "@PROJECT_PATH@/assets/images/jasper-logo-170x128-36.png",
               "height": 128,
               "alt": "",
-              "link": "Home",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1397,7 +1397,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-732.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-730.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1621,10 +1621,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dog-2-179x128-26.png",
+              "src": "@PROJECT_PATH@/assets/images/jasper-logo-170x128-64.png",
               "height": 128,
               "alt": "",
-              "link": "Home",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1843,7 +1843,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dog-2-179x128-42.png",
+              "src": "@PROJECT_PATH@/assets/images/jasper-logo-170x128-80.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
