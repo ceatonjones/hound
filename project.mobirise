@@ -1,13 +1,13 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "name": "Hound of the Barbersville",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#efefef",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#2969b0",
         "successColor": "#580035",
         "infoColor": "#7e9b9f",
         "warningColor": "#000000",
@@ -1397,7 +1397,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-733.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-730.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -2231,20 +2231,20 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false,
             "count": 3,
             "showImages": true,
             "showName": true,
-            "showBio": false
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-03372-2000x1333-93.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC CUSTOMERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -2282,7 +2282,7 @@
           },
           "title": "Facebook",
           "text": "<p>For more reviews, please visit our facebook page!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.facebook.com/pg/houndofthebarbersville/reviews/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Facebook Reviews</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.facebook.com/pg/houndofthebarbersville/reviews/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>Facebook Reviews</a> "
         },
         {
           "_tags": [
