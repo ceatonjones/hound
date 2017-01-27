@@ -952,6 +952,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -980,7 +986,7 @@
           },
           "title": "Photography",
           "text": "<p>Photography by Charlotte Eaton-Jones at York Pet Photography.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">York Pet Photography</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://ceatonjones.github.io/yorkpetphotography/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">York Pet Photography</a>"
         },
         {
           "_tags": [
@@ -1421,7 +1427,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-730.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0012-2000x1333-731.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
