@@ -901,3 +901,89 @@ h6,
 #menu-1m .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
+
+
+#menu-1t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1t .navbar-caption {
+  color: #ffffff;
+  font-family: 'Merriweather', serif;
+}
+#menu-1t .navbar-toggler {
+  color: #7e7e7e;
+}
+#menu-1t .close-icon::before,
+#menu-1t .close-icon::after {
+  background-color: #7e7e7e;
+}
+#menu-1t .link,
+#menu-1t .dropdown-item {
+  color: #7e7e7e;
+  font-family: 'Merriweather', serif;
+}
+#menu-1t .link {
+  font-size: 0.75rem;
+}
+#menu-1t .dropdown-item,
+#menu-1t .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-1t .link:hover,
+#menu-1t .dropdown-item:hover,
+#menu-1t .link:focus,
+#menu-1t .dropdown-item:focus {
+  color: #efefef;
+}
+#menu-1t .link[aria-expanded="true"],
+#menu-1t .dropdown-menu {
+  background: #6e6e6e;
+}
+#menu-1t .nav-dropdown-sm .link:focus,
+#menu-1t .nav-dropdown-sm .link:hover,
+#menu-1t .nav-dropdown-sm .dropdown-item:focus,
+#menu-1t .nav-dropdown-sm .dropdown-item:hover {
+  background: #7f7f7f!important;
+}
+#menu-1t .navbar,
+#menu-1t .nav-dropdown-sm,
+#menu-1t .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1t .nav-dropdown-sm .dropdown-menu {
+  background: #878787;
+}
+#menu-1t .bg-color.transparent .link {
+  color: #7e7e7e;
+  transition: none;
+}
+#menu-1t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1t .bg-color.transparent.opened .link:hover,
+#menu-1t .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#menu-1t .link[aria-expanded="true"],
+#menu-1t .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#testimonials3-1v .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-1v .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-1v .card-block H1 {
+  font-size: 12px;
+  text-align: center;
+}
+#testimonials3-1v .card-block P {
+  font-size: 12px;
+  text-align: center;
+}
+#msg-box3-1w .mbr-section-title,
+#msg-box3-1w p {
+  color: #000;
+}
+#contacts2-1u P {
+  color: #ffffff;
+}
