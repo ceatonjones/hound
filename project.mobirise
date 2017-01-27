@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "Photography.html",
     "name": "Hound of the Barbersville",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 69,
+    "uniqCompNum": 70,
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "",
@@ -949,6 +949,40 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#image2-1g\" aria-expanded=\"false\">GALLERY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"beforeandafter.html\">Before and After</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photography.html\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The Salon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Prices.html\">PRICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DWNLOAD</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-03372-2000x1333-30.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Photography",
+          "text": "<p>Photography by Charlotte Eaton-Jones at York Pet Photography.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">York Pet Photography</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -964,6 +998,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/darwin-2000x1333-99-2000x1333-46.jpg",
                 "image": "@PROJECT_PATH@/assets/images/darwin-2000x1333-99.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-03372-2000x1333-21-2000x1333-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-03372-2000x1333-21.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -984,16 +1028,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1600-28-2000x1600-18.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1600-28.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jasper-4-2000x1333-33-2000x1333-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jasper-4-2000x1333-33.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1052,10 +1086,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0112-2000x1333-62-2000x1333-29.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0112-2000x1333-62.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0324-2000x1333-41-2000x1333-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0324-2000x1333-41.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1082,18 +1116,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0113-2000x1333-22-2000x1333-19.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0113-2000x1333-22.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5x-3-2000x1400-62-2000x1400-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5x-3-2000x1400-62.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0463-2000x1333-62-2000x1333-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0463-2000x1333-62.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1102,8 +1126,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6x4-2000x1333-52-2000x1333-61.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6x4-2000x1333-52.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jasper-4-2000x1333-33-2000x1333-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jasper-4-2000x1333-33.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -1742,7 +1766,7 @@
         }
       ]
     },
-    "page7.html": {
+    "TheSalon.html": {
       "settings": {
         "title": "Salon",
         "meta_descr": ""
@@ -2035,7 +2059,7 @@
         }
       ]
     },
-    "page8.html": {
+    "testimonials.html": {
       "settings": {},
       "components": [
         {
