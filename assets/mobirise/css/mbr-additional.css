@@ -783,6 +783,13 @@ h6,
 }
 
 
+#msg-box8-1z .mbr-section-title,
+#msg-box8-1z p {
+  color: #fff;
+}
+#msg-box8-1z .mbr-section-title {
+  color: #000000;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -910,6 +917,16 @@ h6,
 #menu-1m .link[aria-expanded="true"],
 #menu-1m .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
+}
+#msg-box8-1y .mbr-section-title,
+#msg-box8-1y p {
+  color: #fff;
+}
+#msg-box8-1y .mbr-section-title {
+  color: #000000;
+}
+#msg-box8-1y .lead P {
+  color: #000000;
 }
 
 
