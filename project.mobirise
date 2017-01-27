@@ -954,10 +954,10 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".lead P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
