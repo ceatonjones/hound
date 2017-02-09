@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "beforeandafter.html",
+    "currentPage": "index.html",
     "name": "Hound of the Barbersville",
     "theme": {
       "name": "mobirise3",
@@ -307,7 +307,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -659,7 +659,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -924,7 +924,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1242,7 +1242,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1386,7 +1386,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1628,7 +1628,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1850,7 +1850,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -2128,7 +2128,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
